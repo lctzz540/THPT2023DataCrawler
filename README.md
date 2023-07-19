@@ -4,7 +4,7 @@ This repository contains a data crawler specifically designed for the high schoo
 
 ## Features
 
-- Data crawling: The crawler fetches the exam data from a specified source, such as a website or CSV file.
+- Data crawling: The crawler fetches the exam data from a specified source.
 
 ## Installation
 
